@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arctic-zoo-339006",
+  "private_key_id": "7b14e2d7ac2d25623fb32f6e037975cc9e6a709a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwkNbWt9smhdaK\nGxCz4zy/PTStls9hKtfIq2FIgnHLtD2jT4XqZxOab+2xKiYOuL2IZpH19/6PvinM\nkl4/TVU905rlqYoFnUN8YHp7Aw6a235/jv0rmTRA6Hi+Xx0pmAoU3+AW0cz56tkX\n/GPxzVK0XO81GwqDCXowu/jTZigLKd2YZoS8X9DWTMUxgEbEXsF67cKkdEOqJK7x\nPIfhetpJluWtIiLXL1OPtrRc8ENtwNgPNC9aST+tfzvNAV+7opr+gx1eVpc/Yu2S\npYWtbr0YUnqGwE3LUHN3fPQjJbQUanzWHWc9oQkhzyfFjvRLNWb1KQtxOKWfmRQO\n8ZZLaPmNAgMBAAECggEAEm3jxsClArXYiUy+5w/SYOGqFG5X0fwPTtY4jsFy0EDN\naDTeNPOyU53YMPRFyaaVvd164bITY3yFT2F9rdzMB2qFUfBqxCBAkYRedGWCyj4b\ny4OowDq6/gVlyPUTjapdbwVZFfirDPDq3PqOkggM2F+U5jWe2MON+fU8yQ/yIQv+\nt6MM5F91Mv12T1UnLNYkgPDSi7G5C9ZqfO7XQUotsLWRCH4bgI9EzluO7n/KeNNI\n0tW1no6O4lfYyXdfShzaYK90HmAcKUrmPWTRtw3y24EnJxX6moczJTMWDgyoyYEV\nCGF/FooTGkpYPR+LaVL11ZbF6fBHYgCh5zFkNgYkMQKBgQDcz0gpZlo3umpCm6Oc\ngydE5mbkzHtDBtddR6yJP3alsDd/idcGEgpW44MauJJk0belm+5dAxyy2gx2GdE6\nYmZ7MDEw4E59RZdQVd8rTmCqqL4AhX5uqahms49RzVCnKMhCXejme9cc8R+nqDip\nArAce+Zt4QAd12Ui+ruQbrEh+QKBgQDMtHgZTdAY+HTwi5cmPcyb9QzdQ1BXbBpQ\n/o8lRLhw5MXR4TwH1/8Bqf+lBFBcS1I0v1YL9rmtyBmkSYPV4QEgGpjGa2xcA6xO\nxERMyoMoJMTJCSrnoGHMV+nYQihmc56KbXtir3HggAujPQZWB2hMysjkrhjIXZl+\n54P7JLC5NQKBgCwcLGo4zCT91GRh+xk1Cg81h7CFOMp2/2be/pScXPNUdIHB43aO\n/AnHgVVBMd16F5m5wLBMAtunu32MQsPLDHXndqww4v0bfdLKlL5t9dmhw/MOt+cb\ndUyu6h6JSWdbOkYnxHLmol5hvNUdQdRheRT3m1yv6foMIWQPepCrzC7hAoGARS3o\nOIT3grjUrEZAeogAEeSqyEvrZt/9tMmSjsG+o0htIhTAONZiM6nD33ypu8corPLM\nnZZwAa7SG5dMmodD3hme7891+1KydJwXiOwXjwV+C4KxoT2uT2SWfqM9DAKe3aFK\nRXuNPJWJWU1SStiOAwW1BrNfZLddHGoZTFKF9tECgYAm0SNfmTH0SN2NU/KB7E4c\n9WXQ5sSJnxdqSy0adq/1ww3RlBo9PV4x3XwgOfrf1jH26kbmm2GXY8RdGtH4vldu\nk4Uydg0r4cActgmjgMMPk4UIIFJEbFdPMEGYCJL81DVsUKeqyTo7iqio6L+NaBY2\nPtTq/s70vRaz+A4Weecj4w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "emily-service-account@arctic-zoo-339006.iam.gserviceaccount.com",
+  "client_id": "112244011273431662492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emily-service-account%40arctic-zoo-339006.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
