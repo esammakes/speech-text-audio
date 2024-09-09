@@ -16,7 +16,7 @@ def transcribe_audio():
     if 'file' not in request.files:
         return jsonify({'error': 'No file part'}), 400
 
-    file = request.files['file']
+    file = request.files['file'] 
     if file:
         audio_content = file.read()
         audio = speech.RecognitionAudio(content=audio_content)
